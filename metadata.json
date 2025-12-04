@@ -1,0 +1,8 @@
+{
+  "name": "Love & Companion",
+  "description": "A Neo-Brutalism styled couple's health and habit tracking application powered by AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
